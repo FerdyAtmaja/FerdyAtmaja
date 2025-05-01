@@ -4,11 +4,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=440&lines=Welcome+to+my+GitHub!;Coding+is+my+playground.;Always+learning+something+new." alt="Typing SVG" />
 </p>
 
----
 
 ###
 
-<p align="left"><h2 align="left">About me</h2>
+<h2 align="left">About me</h2>
 
 ###
 
@@ -19,7 +18,7 @@
 
 ---
 
-<h5 align="left">Languange & Frameworks:</h5>
+<h2 align="left">Languange & Frameworks:</h2>
 
 ###
 
@@ -43,7 +42,7 @@
 
 ---
 
-<h5 align="left">Tools:</h5>
+<h2 align="left">Tools:</h2>
 
 ###
 
@@ -61,7 +60,10 @@
 ---
 
 
-![LeetCode](https://leetcard.jacoblin.cool/FerdyAtmaja?border=0&radius=20)
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/FerdyAtmaja?border=0&radius=20" alt="LeetCode" />
+</div>
+
 
 
 <div align="center">
@@ -70,7 +72,7 @@
 
 ---
 
-<h5 align="left">Connect with Me:</h5>
+<h2 align="left">Connect with Me:</h2>
 
 ###
 <div align="left">
