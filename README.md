@@ -40,7 +40,6 @@
 
 ###
 
----
 
 <h2 align="left">Tools:</h2>
 
@@ -63,7 +62,6 @@
 <div align="center">
   <img src="https://leetcard.jacoblin.cool/FerdyAtmaja?border=0&radius=20" alt="LeetCode" />
 </div>
-
 
 
 <div align="center">
